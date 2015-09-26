@@ -1,0 +1,40 @@
+/* CSS Document */
+.adv_container{
+padding-bottom:30px;
+}
+
+#second_nav{
+background:#3366CC;
+text-align:center;
+}
+
+
+.second_nav_content {
+    color: white !important;
+}
+
+.sub_header{
+border-right-width:1px;
+border-right-style:solid;
+border-right-color:white;
+}
+
+#keyword_search_div ul li,#mini_nav,#mini_nav ul li{
+display:inline;
+text-align:left;
+}
+
+#mini_nav ul img{
+max-height:60px;
+}
+
+#keyword_search_div{
+text-align:left;
+background:#EEEEEE;
+height:40px;
+line-height:40px;
+}
+
+
+
+
